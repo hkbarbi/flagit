@@ -1,8 +1,19 @@
-# React + Vite
+🌍 Flagit.fun
+Flagit.fun is a browser-based web application designed to help users learn and recognize world flags in a playful and interactive way. It is suitable for anyone interested in geography or aiming to expand their knowledge of international flags.
+🔗 Live Demo: https://flagit.fun
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🏳️ Includes all flags from around the world
 
-Currently, two official plugins are available:
+🎮 Expandable with multiple quiz types
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Fully responsive – works on both desktop and mobile devices
+
+📊 Highscore tracking and progress feedback
+
+🧠 Learning mode for focused practice
+
+🚀 Tech Stack
+Frontend: React / Vite / SCSS  
+Styling: SCSS / CSS  
+Package Manager: npm  
